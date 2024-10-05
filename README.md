@@ -36,11 +36,11 @@ You can run this project in two different ways:
 
 #### Step 1: Clone the Repository
 First, clone the repository to your local machine:
-```bash
+
 git clone <repository-url>
 cd <repository-folder>
 
-#### Step 2: Set Up Virtual Environment
+### Step 2: Set Up Virtual Environment
 
 # Create virtual environment
 python -m venv myenv
