@@ -37,18 +37,17 @@ You can run this project in two different ways:
 #### Step 1: Clone the Repository
 First, clone the repository to your local machine:
 
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/ankitamin8/Fetch_ML_OA
 
-### Step 2: Set Up Virtual Environment
+#### Step 2: Set Up Virtual Environment
 
-# Create virtual environment
+##### Create virtual environment
 python -m venv myenv
 
-# Activate the virtual environment
-# On macOS/Linux:
+##### Activate the virtual environment
+##### On macOS/Linux:
 source myenv/bin/activate
-# On Windows:
+##### On Windows:
 myenv\Scripts\activate
 
 #### Step 3: Install Dependencies
